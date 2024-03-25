@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rationalTest", "rationalTest\rationalTest.csproj", "{AE9F2CD4-2968-42F6-84CB-1BC2D5A456EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9F2CD4-2968-42F6-84CB-1BC2D5A456EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9F2CD4-2968-42F6-84CB-1BC2D5A456EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9F2CD4-2968-42F6-84CB-1BC2D5A456EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9F2CD4-2968-42F6-84CB-1BC2D5A456EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FACC0C75-45C5-492B-A1B6-B080CF904044}
+	EndGlobalSection
+EndGlobal
